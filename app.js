@@ -18,3 +18,5 @@ connectDB().then(() => {
   console.log("init");
   app.listen(config.host.port);
 });
+
+a;
